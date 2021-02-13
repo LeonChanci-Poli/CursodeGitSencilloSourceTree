@@ -18,3 +18,5 @@ Catacteristica 3
 Catacteristica 3 - 2 cambio
 
 Cambio para GITHUB
+
+Cambio para el remoto
