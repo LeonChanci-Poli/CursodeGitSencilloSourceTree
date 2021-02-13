@@ -6,4 +6,7 @@ Corrijo el HOTFIX 2
 
 Cambio que se me ha olvidado
 
-sasasas
+<<<<<<< HEAD
+Añado contenido.
+
+se arreglo el codigo
