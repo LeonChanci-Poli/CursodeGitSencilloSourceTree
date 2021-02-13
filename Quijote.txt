@@ -6,6 +6,10 @@ Corrijo el HOTFIX 2
 
 Cambio que se me ha olvidado
 
+<<<<<<< HEAD
 Añado contenido.
 
 Cambio Final
+=======
+sasasas
+>>>>>>> FastForward
