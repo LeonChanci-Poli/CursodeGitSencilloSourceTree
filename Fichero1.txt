@@ -1,3 +1,5 @@
+Cambio directo de GitHub
+
 Este es el fichero 1
 
 
@@ -23,4 +25,4 @@ Cambio para el remoto
 
 Cambio arreglo
 
-cambio
+se arreglo el codigo
