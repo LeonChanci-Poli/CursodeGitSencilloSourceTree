@@ -25,8 +25,4 @@ Cambio para el remoto
 
 Cambio arreglo
 
-<<<<<<< HEAD
-Cambo final
-=======
-cambio
->>>>>>> FastForward
+se arreglo el codigo

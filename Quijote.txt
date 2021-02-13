@@ -9,7 +9,4 @@ Cambio que se me ha olvidado
 <<<<<<< HEAD
 Añado contenido.
 
-Cambio Final
-=======
-sasasas
->>>>>>> FastForward
+se arreglo el codigo
