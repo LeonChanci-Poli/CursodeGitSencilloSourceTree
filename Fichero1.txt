@@ -4,3 +4,5 @@ Este es el fichero 1
 Estoy haciendo cambios
 
 Cambios 2
+
+Cambios FastForward
